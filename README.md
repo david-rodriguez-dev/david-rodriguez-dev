@@ -2,12 +2,12 @@
 
 Student **Graduaat Programmeren** at **HOGENT** (Ghent, Belgium) with a strong interest in **cybersecurity**.
 
-## 🔭 Currently
+##  Currently
 - Learning **C# / .NET**, **SQL (MySQL)**, **web development (HTML)** and **software design (UML, ERD)**
 - Working through the **TryHackMe Pre Security** path
 - Building a homelab and preparing for **Cisco CCNA** (networking)
 
-## 🛠️ Skills & tools
+##  Skills & tools
 `C#` `Java` `SQL` `HTML` `Git` `Windows CLI` `Linux basics` `Networking (Cisco ITN)` `draw.io`
 
 ##  Projects
