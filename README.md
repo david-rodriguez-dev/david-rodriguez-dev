@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm David 👋
 
-<!--
-**david-rodriguez-dev/david-rodriguez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student **Graduaat Programmeren** at **HOGENT** (Ghent, Belgium) with a strong interest in **cybersecurity**.
 
-Here are some ideas to get you started:
+## 🔭 Currently
+- Learning **C# / .NET**, **SQL (MySQL)**, **web development (HTML)** and **software design (UML, ERD)**
+- Working through the **TryHackMe Pre Security** path
+- Building a homelab and preparing for **Cisco CCNA** (networking)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & tools
+`C#` `Java` `SQL` `HTML` `Git` `Windows CLI` `Linux basics` `Networking (Cisco ITN)` `draw.io`
+
+## 📂 Projects
+| Project | Description |
+|---|---|
+| [programmeren-basis](https://github.com/david-rodriguez-dev/programmeren-basis) | My C# exercises for the Programmeren Basis course |
+
+## 🌍 Languages
+Spanish (native) · Dutch · English
+
+## 📫 Contact
+LinkedIn: *coming soon*
