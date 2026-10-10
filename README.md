@@ -1,4 +1,4 @@
-# Hi, I'm David 👋
+# Hi, I'm David 
 
 Student **Graduaat Programmeren** at **HOGENT** (Ghent, Belgium) with a strong interest in **cybersecurity**.
 
@@ -10,13 +10,13 @@ Student **Graduaat Programmeren** at **HOGENT** (Ghent, Belgium) with a strong i
 ## 🛠️ Skills & tools
 `C#` `Java` `SQL` `HTML` `Git` `Windows CLI` `Linux basics` `Networking (Cisco ITN)` `draw.io`
 
-## 📂 Projects
+##  Projects
 | Project | Description |
 |---|---|
 | [programmeren-basis](https://github.com/david-rodriguez-dev/programmeren-basis) | My C# exercises for the Programmeren Basis course |
 
-## 🌍 Languages
+##  Languages
 Spanish (native) · Dutch · English
 
-## 📫 Contact
+##  Contact
 LinkedIn: *coming soon*
